@@ -11,6 +11,7 @@ with col2:
   st.subheader("Dubai")
   st.image("./dubai.jpg",caption="Dubai",width=300,use_column_width=True)
   st.write("dubai is a desert place")
+  
 st.subheader("Doreamon")
 st.video("https://www.youtube.com/watch?v=Ve_Sq9j2VZU&pp=ygUXZG9yZWFtb24gdmlkZW9zIGluIHNub3c%3D",width=300,use_column_width=True)
 st.write("Doraemon is a Japanese manga series written and illustrated by Fujiko F. Fujio.")
