@@ -9,6 +9,6 @@ with col1:
   st.write("simla is cool place")
 with col2:
   st.subheader("Dubai")
-  st.image("./dubai.jpg",caption="Dubai",width=300,use_column_width=True,height=400,,use_column_height=True)
+  st.image("./dubai.jpg",caption="Dubai",width=300,use_column_width=True,height=400,use_column_height=True)
   st.write("dubai is a desert place")
 
